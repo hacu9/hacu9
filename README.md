@@ -44,10 +44,12 @@ I got wrong. I am happy to walk through any private repository on a call.
 
 ### Stack
 
-**Daily** TypeScript · Next.js · React · PostgreSQL · Prisma · Laravel · PHP
-**Also** Python · Capacitor · Docker · Redis · Tailwind
-**Cloud** Azure (Entra, Blob, Logic Apps, SQL, Monitor) · Hetzner · Coolify · Vercel
-**Method** Spec-driven development · agentic coding loops · multi-model adversarial review
+| | |
+|---|---|
+| **Daily** | TypeScript · Next.js · React · PostgreSQL · Prisma · Laravel · PHP |
+| **Also** | Python · Capacitor · Docker · Redis · Tailwind |
+| **Cloud** | Azure (Entra, Blob, Logic Apps, SQL, Monitor) · Hetzner · Coolify · Vercel |
+| **Method** | Spec-driven development · agentic coding loops · multi-model adversarial review |
 
 ### Contact
 
