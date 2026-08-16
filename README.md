@@ -1,0 +1,56 @@
+# Henry Cabello
+
+**I built Luxura, ran the server, bought the ads.**
+
+Senior full-stack engineer in Bogotá, Colombia. Eight years, split between
+Microsoft enterprise estates for US clients and products I take end to end
+myself. TypeScript, Next.js, PostgreSQL, PHP, Python, Azure.
+
+---
+
+### Things you can open
+
+| | What it is | Proof |
+|---|---|---|
+| **Luxura** | Invitation-based dating app. Eleven weeks from an empty repo to Google Play, 5,000+ downloads across Bogotá and Medellín. I wrote it, I run the server, and I paid for the ads. | [Google Play](https://play.google.com/store/apps/details?id=app.luxura.dating) · [luxura.vip](https://luxura.vip) |
+| **monia** | Personal finance ledger that builds itself from bank email. No aggregator reaches all five of my accounts, so it parses transaction alerts and statement PDFs into one ledger across five institutions and five currencies. | Live, public demo account |
+| **Teardowns** | How each was built, what it cost, and what I got wrong. Five of them, in English and Spanish. | [hacu9.github.io/portfolio](https://hacu9.github.io/portfolio) |
+
+### Day job
+
+Five years at Level60 Consulting on a room-health platform for corporate
+clients: it watches Microsoft Teams Rooms, Cisco and Zoom hardware across
+customer tenants, runs pre-meeting checks, raises alerts, and syncs to an ERP,
+ServiceNow and Power BI.
+
+I joined it two years in and became the constant on it. I own the integration
+and alerting layers, and the Azure platform underneath: Entra app registrations
+and multi-tenant consent, Blob Storage, Logic Apps, Azure SQL, Analysis
+Services, and Monitor data collection rules. When Microsoft retired the only
+Graph API that reported Teams Rooms device health, with no replacement and none
+planned, I wrote the assessment that set what every customer tenant could still
+be told.
+
+### About this profile
+
+Most of what I have written in the last five years is not here. Client work
+lives in private Bitbucket repositories, and my own products are private
+because they hold real user data. What is public here is mostly early-career
+work from 2016 to 2019, and it is not representative.
+
+If you want to judge the current work, the teardowns are the honest version:
+they carry the numbers I can prove, the decisions I would defend, and the parts
+I got wrong. I am happy to walk through any private repository on a call.
+
+### Stack
+
+**Daily** TypeScript · Next.js · React · PostgreSQL · Prisma · Laravel · PHP
+**Also** Python · Capacitor · Docker · Redis · Tailwind
+**Cloud** Azure (Entra, Blob, Logic Apps, SQL, Monitor) · Hetzner · Coolify · Vercel
+**Method** Spec-driven development · agentic coding loops · multi-model adversarial review
+
+### Contact
+
+[cabello986@gmail.com](mailto:cabello986@gmail.com) ·
+[LinkedIn](https://linkedin.com/in/cabello986) ·
+Remote, US Eastern hours · English C1, Spanish native
