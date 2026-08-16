@@ -10,17 +10,17 @@ myself. TypeScript, Next.js, PostgreSQL, PHP, Python, Azure.
 
 ### Things you can open
 
-**[Luxura](https://play.google.com/store/apps/details?id=app.luxura.dating)** — Invitation-based dating app.
+**[Luxura](https://play.google.com/store/apps/details?id=app.luxura.dating)** is an invitation-based dating app.
 Eleven weeks from an empty repo to Google Play, 5,000+ downloads across Bogotá and Medellín.
 I wrote it, I run the server, and I paid for the ads.
 [luxura.vip](https://luxura.vip) · [teardown](https://hacu9.github.io/portfolio/work/luxura/)
 
-**[monia](https://monia-rho.vercel.app)** — Personal finance ledger that builds itself from bank email.
+**[monia](https://monia-rho.vercel.app)** is a personal finance ledger that builds itself from bank email.
 No aggregator reaches all five of my accounts, so it parses transaction alerts and statement
 PDFs into one ledger across five institutions and five currencies.
 [live demo](https://monia-rho.vercel.app) · [teardown](https://hacu9.github.io/portfolio/work/monia/)
 
-**[Five teardowns](https://hacu9.github.io/portfolio)** — How each product was built, what it cost,
+**[Five teardowns](https://hacu9.github.io/portfolio)** cover how each product was built, what it cost,
 and what I got wrong. English and Spanish.
 
 ### Day job
