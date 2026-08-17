@@ -6,6 +6,8 @@ I build products end to end and then operate them. Bogotá, Colombia, eight year
 Two tracks run in parallel: things I ship under my own name, and Microsoft enterprise
 work for US clients. TypeScript, Next.js, PostgreSQL, PHP, Python, Azure.
 
+**[hacu9.github.io/portfolio](https://hacu9.github.io/portfolio)**
+
 ---
 
 ### What I ship
