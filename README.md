@@ -2,13 +2,13 @@
 
 **I built [Luxura](https://play.google.com/store/apps/details?id=app.luxura.dating), ran the server, bought the ads.**
 
-Senior full-stack engineer in Bogotá, Colombia. Eight years, split between
-Microsoft enterprise estates for US clients and products I take end to end
-myself. TypeScript, Next.js, PostgreSQL, PHP, Python, Azure.
+I build products end to end and then operate them. Bogotá, Colombia, eight years in.
+Two tracks run in parallel: things I ship under my own name, and Microsoft enterprise
+work for US clients. TypeScript, Next.js, PostgreSQL, PHP, Python, Azure.
 
 ---
 
-### Things you can open
+### What I ship
 
 **[Luxura](https://play.google.com/store/apps/details?id=app.luxura.dating)** is an invitation-based dating app.
 Eleven weeks from an empty repo to Google Play, 5,000+ downloads across Bogotá and Medellín.
@@ -23,7 +23,7 @@ PDFs into one ledger across five institutions and five currencies.
 **[Five teardowns](https://hacu9.github.io/portfolio)** cover how each product was built, what it cost,
 and what I got wrong. English and Spanish.
 
-### Day job
+### What I work on
 
 Five years at Level60 Consulting on a room-health platform for corporate clients: it watches
 Microsoft Teams Rooms, Cisco and Zoom hardware across customer tenants, runs pre-meeting
@@ -36,12 +36,11 @@ Microsoft retired the only Graph API that reported Teams Rooms device health, wi
 replacement and none planned, I wrote the assessment that determined which device-health
 reporting each customer tenant could keep.
 
-### Where the code is
+### Why this profile looks quiet
 
-The current work is private: client code lives in Bitbucket, and my own products hold real
-user data. What is public here is early-career work from 2016 to 2019. Judge the
-[teardowns](https://hacu9.github.io/portfolio) instead, and I will walk through any private
-repository on a call.
+The work is private. Client code lives in Bitbucket, and my own products hold real user data,
+so what is public here is early-career work from 2016 to 2019. The teardowns are where I write
+the current work up properly: the numbers, the decisions, and the parts I got wrong.
 
 ### Stack
 
@@ -51,10 +50,8 @@ repository on a call.
 | **Also** | Python · Capacitor · Docker · Redis · Tailwind |
 | **Cloud** | Azure (Entra, Blob, Logic Apps, SQL, Monitor) · Hetzner · Coolify · Vercel |
 
-### Contact
-
-Open to remote contract or full-time work with US teams.
+### Elsewhere
 
 [cabello986@gmail.com](mailto:cabello986@gmail.com) ·
 [LinkedIn](https://linkedin.com/in/cabello986) ·
-US Eastern hours · English C1, Spanish native
+[hacu9.github.io/portfolio](https://hacu9.github.io/portfolio)
